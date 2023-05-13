@@ -1,4 +1,4 @@
----
+# I removed the first three lines to make this invisible.
 title:  "Advanced examples"
 mathjax: true
 layout: post
