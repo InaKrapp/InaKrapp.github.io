@@ -1,1 +1,1 @@
-
+On the 10th of May, I gave a Lightning talk at the JupyterCon 2023 in Paris. Lightning talks are 4-minute-presentations which were held at the evening of the conference days on a diverse number of topics.
