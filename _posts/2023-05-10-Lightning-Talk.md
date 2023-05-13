@@ -4,7 +4,7 @@ layout: post
 ---
 
 On the 10th of May, I gave a Lightning talk at the JupyterCon 2023 in Paris. Lightning talks are 4-minute-presentations which were held at the evening of the conference days on a diverse number of topics. They can be used to show projects, to advertise upcoming conferences or, as I did, to discuss how writing code, in some ways, is not that different from writing stories.
-Here's the talk I gave. You can also download it [here][creative-writing].
+Here's the talk I gave.
 
 ## Creative writing
 
@@ -15,6 +15,3 @@ Also, the finished product is often read top-down and from left to right. Someon
 I don‘t know about you, but I don‘t think I ever met a person who wrote stories or coded that way. Even this talk was not written in a linear manner.
 Maybe because I hoped to circumvent a writer‘s block – another dreaded enemy of the common creative writer that I think programmers sometimes have to deal with, too. When you‘re just stuck on how to put your thoughts into words.
 Maybe the creative writing and programming communities should start to exchange some recipies against it. One thing that helps me is sometimes just to write code or ideas on paper. I spend too much time in front of the computer anyways. My projects, in coding as well as in writing, always seem to turn out larger than I think they would. 
-
-
-[creative-writing]:   [https://github.com/jekyll/jekyll](https://github.com/InaKrapp/InaKrapp.github.io/blob/master/_posts/Creative%20Writing.pdf)
