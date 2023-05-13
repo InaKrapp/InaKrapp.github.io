@@ -4,7 +4,7 @@ layout: post
 ---
 
 On the 10th of May, I gave a Lightning talk at the JupyterCon 2023 in Paris. Lightning talks are 4-minute-presentations which were held at the evening of the conference days on a diverse number of topics. They can be used to show projects, to advertise upcoming conferences or, as I did, to discuss how writing code, in some ways, is not that different from writing stories.
-Here's the talk I gave.
+Here's the talk I gave. You can also download it [here](https://github.com/InaKrapp/InaKrapp.github.io/raw/master/_posts/Creative_Writing.pdf)
 
 ## Creative writing
 
