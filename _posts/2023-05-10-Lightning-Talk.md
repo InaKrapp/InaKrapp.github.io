@@ -8,7 +8,7 @@ Here's the talk I gave. You can also download it [here](https://github.com/InaKr
 
 ## Creative writing
 
-I‘m Ina. I‘m not a software engineer, and this is my first conference on programming I attend. I don‘t really have a project. Also, I do creative writing. The organizers said lighting talks don‘t necessarily have to be on programming, hence the title of this one.
+Hello, I‘m Ina. I‘m not a software engineer, and this is my first conference on programming I attend. I don‘t really have a project. Also, I do creative writing. The organizers said lighting talks don‘t necessarily have to be on programming, hence the title of this one.
 Some probably famous person whose name I forgot once said that writing is easy: You just have to put the rights words after each other. I‘d add punctuation marks, they‘re important, too, but yes, this is how writing works.
 I think programming is very similar. Typos are one of the main enemies. Autocorrection can help, but you have to careful that it doesn‘t change the meaning of what you want to express.
 Also, the finished product is often read top-down and from left to right. Someone in a talk I attended today said this is because books are printed that way. 
