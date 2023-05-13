@@ -6,7 +6,7 @@ layout: post
 On the 10th of May, I gave a Lightning talk at the JupyterCon 2023 in Paris. Lightning talks are 4-minute-presentations which were held at the evening of the conference days on a diverse number of topics. They can be used to show projects, to advertise upcoming conferences or, as I did, to discuss how writing code, in some ways, is not that different from writing stories.
 Here's the talk I gave. You can also download it [here][creative-writing].
 
-Creative writing
+## Creative writing
 
 I‘m Ina. I‘m not a software engineer, and this is my first conference on programming I attend. I don‘t really have a project. Also, I do creative writing. The organizers said lighting talks don‘t necessarily have to be on programming, hence the title of this one.
 Some probably famous person whose name I forgot once said that writing is easy: You just have to put the rights words after each other. I‘d add punctuation marks, they‘re important, too, but yes, this is how writing works.
