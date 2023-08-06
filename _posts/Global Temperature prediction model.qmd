@@ -1,6 +1,6 @@
 ---
 title: "Global Temperature"
-format: html
+format: md
 editor: visual
 author: Ina Krapp
 date: "2023-08-06" 
