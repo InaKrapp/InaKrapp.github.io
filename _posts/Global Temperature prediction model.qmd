@@ -25,7 +25,7 @@ So, it got some data on the global temperature from NASA: https://climate.nasa.g
 Simply click on the Download Data button to get the data. Thank you to NASA for that. The data can be saved locally and read into R with this command:
 
 ```{r}
-Temp <- read.table("Global Temperature.txt")
+Temp <- read.table("Global_Temperature.txt")
 ```
 
 The data is now stored in a variable called 'Temp'.
