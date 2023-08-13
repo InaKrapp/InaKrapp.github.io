@@ -13,7 +13,7 @@ I am Ina Krapp, currently a Ph.D. student in Economics. My primary interest lies
 I program primarily in R and, increasingly, Python. I am an open source enthusiast, so I plan to publish some of projects on [Github](https://github.com/InaKrapp).
 
 
- ## Disclaimer
+## Disclaimer
 This website and the related account serve no commercial purpose, do not contain any advertising and will not be used to conduct any business.
 
 I have no influence on the collection and processing of data through the use of this Git Hub page (e.g. viewing or downloading my repositories). The same applies to the use of cookies. This is GitHub's responsibility and is explained in its [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
