@@ -12,3 +12,5 @@ The ARIMA model can still be used when some data is missing. I used interpolatio
 The code (with extensive commentary) can be downloaded [here](https://github.com/InaKrapp/ARIMA_Temperature_model). It is written in a quarto document and should run on any relatively recent version of R and Rstudio. 
 The 'Global_Temperature.txt' and 'merged_ice_core_yearly.csv' files contain the data the model uses, so they have to be downloaded into the same folder as well to run the code.
 For anyone who just wants to take a look at the results and doesn‘t want to run or modify the code themselves, here is the [pdf version](https://github.com/InaKrapp/InaKrapp.github.io/raw/master/_posts/Global_Temperature_prediction_model.pdf).
+
+Edit from October 19th 2023: I uploaded a version that can be used for Workshops in Germany. It is in the subfolder 'Workshop'.
