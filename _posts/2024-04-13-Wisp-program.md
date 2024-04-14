@@ -3,7 +3,7 @@ title: "Wisp: A locally running version of Whisper"
 layout: post
 ---
 Whisper is a transcription software that allows to turn audio files into text. I created a
- locally running version of it, Wisp, with the aim to give it a simple, intutive user interface.
+ locally running version of it, Wisp, with the aim to give it a simple, intutive user interface. My project can be found here: [Wisp](https://github.com/InaKrapp/whisper-locally-running)
 
 Whisper itself has been developed by OpenAI, which is also the company behind ChatGPT and several other Artificial Intelligence programs. 
 You can try it out in one of the spaces here: ‚[Whisper Demo](https://huggingface.co/openai/whisper-large-v3)‘.
